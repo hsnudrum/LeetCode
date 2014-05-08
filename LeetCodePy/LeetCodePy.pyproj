@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b63e495d-c30a-4c11-a1be-2b21f640829c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>LeetCodePy.py</StartupFile>
+    <StartupFile>RevWrdInStr.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LeetCodePy.py" />
+    <Compile Include="RevWrdInStr.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
